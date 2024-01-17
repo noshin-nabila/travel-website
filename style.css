@@ -5,3 +5,75 @@
     margin-bottom: 10px;
     border-color: red;
 }
+
+.hero {
+    color: #131318;
+
+    font-family: Mulish;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+
+}
+.hero span{
+    color: #FF5400;
+font-family: Mulish;
+font-size: 36px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+nav ul{
+    display:flex;
+padding: 10px 10px;
+margin: 80px;
+justify-content: center;
+align-items: end;
+justify-content: space-between;
+gap: 10px;
+font-style: normal;
+align-items: end;
+font-family: Mulish;
+font-size: 20px;
+}
+.Banner{
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    padding-right: 300px;
+}
+.bannerImg{
+position: absolute;
+width: 1200px;
+margin-top: 20px;
+/* margin-right: 180px; */
+z-index: -8;
+}
+.Banner h2{
+  color: aliceblue;
+  color: #FFF;
+
+font-family: Mulish;
+font-size: 44px;
+font-style: normal;
+/* font-weight: 800; */
+line-height: normal;
+text-align: center;
+padding-left: 40%;
+padding-top: 40px;
+}
+.Banner p{
+    color: aliceblue;
+  color: #FFF;
+
+font-family: Mulish;
+/* font-size: 44px; */
+font-style: normal;
+/* font-weight: 800; */
+line-height: normal;
+text-align: center;
+padding-left: 40%;
+/* padding-top: 10px; */
+}

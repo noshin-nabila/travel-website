@@ -77,3 +77,24 @@ text-align: center;
 padding-left: 40%;
 /* padding-top: 10px; */
 }
+.form{
+    position: absolute;
+display: inline-flex;
+padding: 16px;
+align-items: flex-start;
+gap: 24px;
+border-radius: 8px;
+height: 80px;
+width: 70%;
+background: rgba(255, 255, 255, 0.30);
+align-content: center;
+padding-left: 120px;
+margin: 40px;
+
+}
+
+#fname{
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+}
